@@ -1,4 +1,4 @@
-### Hey there, fellow cosmic voyager! Ready to surf the waves of spacetime and ride the quantum fluctuations of our conversation? 💫🪐
+### Hello there, fellow cosmic voyager! Ready to surf the waves of spacetime and ride the quantum fluctuations of our conversation? 💫🪐
 I am a student learning IT and physics. ⚪🔴🇵🇱
 - 🔭 I’m currently working on getting accepted to AGH University of Science and Technology
 - 🌱 I’m currently learning Java, physics and mathematics
