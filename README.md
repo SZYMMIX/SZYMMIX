@@ -16,7 +16,7 @@ Key facts
 #### Languages & Core Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py, java, js, ts, html, css, mysql" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,mysql" />
   </a>
 </p>
 
