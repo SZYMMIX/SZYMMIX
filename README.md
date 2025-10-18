@@ -34,6 +34,7 @@ Key facts
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
+
 #### DevOps & Tools
 <p align="center">
   <a href="https://skillicons.dev">
