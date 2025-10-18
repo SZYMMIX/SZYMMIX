@@ -36,9 +36,8 @@ I'm currently learning and working with the following technologies across differ
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
 </p>
 
-#### Game Development & Tools
+#### DevOps & Tools
 <p align="left">
-  <a href="https://www.pygame.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pygame_logo.svg/1200px-Pygame_logo.svg.png" alt="Pygame" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
