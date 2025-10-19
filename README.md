@@ -16,7 +16,7 @@ Key facts
 #### Languages 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,mysql,react" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,react,mysql" />
   </a>
 </p>
 
