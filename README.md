@@ -13,7 +13,7 @@ Key facts
 
 ### 🛠️ My Tech Stack & Skills
 
-#### Languages & Core Technologies
+#### Languages 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,mysql" />
@@ -21,24 +21,10 @@ Key facts
 </p>
 
 
-#### Frontend Development
+#### Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-</p>
-
-#### Backend & Databases
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
-
-#### DevOps & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=react,mysql,git" />
   </a>
 </p>
 
