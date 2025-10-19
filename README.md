@@ -24,7 +24,7 @@ Key facts
 #### Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=react,mysql,git,blender,ps,pr" />
   </a>
 </p>
 
