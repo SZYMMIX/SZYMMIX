@@ -6,7 +6,7 @@
 
 Key facts
 - 👨‍🎓 Currently pursuing a Bachelor's degree in Computer Science at the Faculty of Computer Science at AGH University of Kraków.
-- 🔭 I’m currently working on a **Pygame-based space shooter**.
+- 🔭 I’m currently working on a **Pygame-based space shooter** and a **Cyberpunk-themed website**.
 - 🌱 My main focus right now is mastering the connection between a solid **backend**, a relational **database**, and an intuitive **frontend**.
 
 ---
