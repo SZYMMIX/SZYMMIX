@@ -22,7 +22,7 @@ Key facts
 #### Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gradle,blender,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=git,gradle,figma,blender,ps,pr" />
   </a>
 </p>
 
