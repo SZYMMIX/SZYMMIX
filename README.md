@@ -4,7 +4,7 @@
 
 Key facts
 - 👨‍🎓 Currently pursuing a Bachelor's degree in Computer Science at the Faculty of Computer Science at AGH University of Kraków.
-- 🔭 I’m currently working on a **Pygame-based top-down shooter** and a **Cyberpunk-themed website**.
+- 🔭 I’m currently working on a **Doom inspired 3D game using pygame and raycasting**.
 - 🌱 My main focus right now is mastering the connection between a solid **backend**, a relational **database**, and an intuitive **frontend**.
 
 ---
