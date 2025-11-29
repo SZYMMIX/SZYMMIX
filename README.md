@@ -31,6 +31,6 @@ Key facts
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SZYMMIX&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SZYMMIX&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-five-tau-71.vercel.app/api?username=SZYMMIX&show_icons=true&hide_border=true&theme=radical&hide=stars,issues,contribs&line_height=30" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-five-tau-71.vercel.app/api/top-langs/?username=SZYMMIX&layout=compact&theme=radical&hide_border&card_width=350" alt="Top Languages" />
 </p>
