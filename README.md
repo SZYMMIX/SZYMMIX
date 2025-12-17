@@ -4,10 +4,10 @@
 
 Key facts
 - 👨‍🎓 Currently pursuing a Bachelor's degree in Computer Science at the Faculty of Computer Science at AGH University of Kraków.
-- 🔭 I’m currently working on:
-*   A **collaborative LMS platform** aiming to create user-friendly alternative to Moodle.
-*   A **Doom-inspired 3D game** using pygame and raycasting.
-- 🌱 My main focus right now is mastering the connection between a solid **backend**, a relational **database**, and an intuitive **frontend**.
+-  🔭 **I’m currently working on:**
+    *   A **collaborative Learning Management System platform** aiming to create a user-friendly alternative to Moodle.
+    *   A **Doom-inspired 3D game** using pygame and raycasting.
+- 🌱 My main focus right now is polishing my skills in building **scalable systems** with a strong focus on **Product Design**.
 
 ---
 
