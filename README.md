@@ -5,7 +5,7 @@
 Key facts
 - 👨‍🎓 Currently pursuing a Bachelor's degree in Computer Science at the Faculty of Computer Science at AGH University of Kraków.
 -  🔭 **I’m currently working on:**
-    *   A **collaborative Learning Management System platform** aiming to create a user-friendly alternative to Moodle.
+    *   A **collaborative Learning Management System platform** aiming to create a user-friendly combination of Udemy and Moodle.
     *   A **Doom-inspired 3D game** using pygame and raycasting.
 - 🌱 My main focus right now is polishing my skills in building **scalable systems** with a strong focus on **Product Design**.
 
@@ -33,6 +33,6 @@ Key facts
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://private-readme-stats-tau.vercel.app/api?username=SZYMMIX&show_icons=true&hide_border=true&theme=radical&hide=stars,issues&line_height=30" alt="GitHub Stats" />
+  <img src="https://private-readme-stats-tau.vercel.app/api?username=SZYMMIX&show_icons=true&hide_border=true&theme=radical&hide=stars&line_height=30" alt="GitHub Stats" />
   <img src="https://private-readme-stats-tau.vercel.app/api/top-langs/?username=SZYMMIX&layout=compact&theme=radical&hide_border=true&card_width=350&exclude_repo=private-readme-stats" alt="Top Languages" />
 </p>
