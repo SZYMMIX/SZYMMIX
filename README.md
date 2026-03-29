@@ -34,5 +34,5 @@ Key facts
 
 <p align="center">
   <img src="https://private-readme-stats-tau.vercel.app/api?username=SZYMMIX&show_icons=true&hide_border=true&theme=radical&hide=stars&line_height=30" alt="GitHub Stats" />
-  <img src="https://private-readme-stats-tau.vercel.app/api/top-langs/?username=SZYMMIX&layout=compact&theme=radical&hide_border=true&card_width=350&exclude_repo=private-readme-stats" alt="Top Languages" />
+  <img src="https://private-readme-stats-tau.vercel.app/api/top-langs/?username=SZYMMIX&layout=compact&theme=radical&hide=html,css&hide_border=true&card_width=350&exclude_repo=private-readme-stats" alt="Top Languages" />
 </p>
