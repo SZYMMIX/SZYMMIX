@@ -6,7 +6,6 @@ Key facts
 - 👨‍🎓 Currently pursuing a Bachelor's degree in Computer Science at the Faculty of Computer Science at AGH University of Kraków.
 -  🔭 **I’m currently working on:**
     *   **Chess Engine** | Rust 🦀
-    *   **Reservation System** | Java, Hibernate, JPA, PostgreSQL ☕🐘
 - 🌱 My main focus right now is polishing my skills in building **scalable systems** with a strong focus on **Product Design**.
 
 ---
